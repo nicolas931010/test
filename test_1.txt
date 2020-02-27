@@ -1,4 +1,4 @@
 different first line
 first line
-pull request conflict
+pull request
 keep this line
